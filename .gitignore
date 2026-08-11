@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 __pycache__/
+=======
+.venv
+__pycache__/
+migrations
+node_modules/
+build/
+.env
+coverage/
+*.log
+.vite/
+>>>>>>> Flood-detection-dashboard/main
