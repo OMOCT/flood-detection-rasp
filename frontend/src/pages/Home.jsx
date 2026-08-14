@@ -21,7 +21,7 @@ function Home() {
       .then((data) => { setFlooddata(data); console.log(data) })
       .catch((err) => alert(err));
   }
-
+// Dashboard
   return (
     <>
       {/* <DataTable data={flooddata}/> */}
